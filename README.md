@@ -25,7 +25,7 @@ El proyecto contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3. Esto con la idea de practicar este nuevo conocimiento adquirido gracias a [TECNOLOCHICAS PRO](https://tecnolochicas.mx/), que me dio la oportunidad de ser parte de su BootCamp de programación orientada en Front-end.
 
 ### 4. Link a demo
-En el siguiente [link](#) puedes ver mi proyecto terminado.
+En el siguiente [link](https://copiadegoogle-rho.vercel.app/) puedes ver mi proyecto terminado.
 
 
 
